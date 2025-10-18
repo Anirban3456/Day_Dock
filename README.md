@@ -30,5 +30,3 @@ Basically, it’s your personal dock where all your daily plans stay anchored �
 - 💾 Data stored locally (no login required)  
 
 ---
-# Run the app
-npm start
